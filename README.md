@@ -14,14 +14,14 @@
   
   ##
 
-![devsec GitHub stats](https://github-readme-stats.vercel.app/api?username=wellersonamazonas&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellersonamazonas)](https://github.com/anuraghazra/github-readme-stats)
+![devsec GitHub stats](https://github-readme-stats.vercel.app/api?username=WellersonAmazonas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellersonAmazonas)](https://github.com/anuraghazra/github-readme-stats)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wellerson-amazonas-8622652b2)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moriarty_bishop/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/e2Vs4GbkCT)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WellersonAmazonas)
 
-![snake gif](https://github.com/welldevsec/welldevsec/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/WellersonAmazonas/WellersonAmazonas/blob/output/github-contribution-grid-snake.gif)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=welldevsec&repo=welldevsec&theme=react)](https://github.com/welldevsec/welldevsec)
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=WellersonAmazonas&repo=WellersonAmazonas&theme=react)](https://github.com/WellersonAmazonas/WellersonAmazonas)
